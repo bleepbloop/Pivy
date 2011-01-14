@@ -1,3 +1,14 @@
+About:
+------
+This branch of Pivy was forked from http://hg.sim.no/Pivy/default 
+on January 13th, 2011, 8:00PM by Jose.Torres.
+
+This version of Pivy was only tested with the following SWIG versions:
+1.3.31, 1.3.33, 1.3.35, 1.3.40
+
+The current version of SWIG as of writing is 2.0.1.
+
+
 General build instructions:
 ---------------------------
 
